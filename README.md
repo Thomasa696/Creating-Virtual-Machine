@@ -14,13 +14,13 @@ Project consists of following a simple step by step process to create a Virtual 
 
 <h2>Environments Used </h2>
 
- -<b>Azure Cloud</b>
+ - <b>Azure Cloud</b>
  
 - <b>Windows 10</b> (21H2)
 
 <h2>Technology Applications used:</h2>
 
- -<b>Azure Virtual Machine</b>
+ - <b>Azure Virtual Machine</b>
 
 <h2>Program Walk-Through</h2>
 <p align="center">
