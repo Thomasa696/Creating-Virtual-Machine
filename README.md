@@ -18,6 +18,8 @@ Project consists of following a simple step by step process to create a Virtual 
  
 - <b>Windows 10</b> (21H2)
 
+- <b>Windows Server</b>
+
 <h2>Technology Applications used:</h2>
 
  - <b>Azure Virtual Machine</b>
