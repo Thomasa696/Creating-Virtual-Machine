@@ -43,7 +43,7 @@ Launch the utility: <br/>
 <br/>Name Virtual Machine And Choose Windows 10 Environment<br/>
 <![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/ce4ae0f8-133f-4146-a6f0-833404aab673)/>
 
-<br/>Select Size, Username, Password</>
+<br/>Select Size, Username, Password Then Click Create<br/>
 <![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/8f45c9c1-3796-4e8f-ab1f-9324f6390a14)/>
 
 <br />
