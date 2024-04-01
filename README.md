@@ -55,7 +55,9 @@ Launch the utility: <br/>
 <br/>Wait for Validation Then Hit Create<br/>
 <![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/301a1ece-1004-4ce6-a84a-d32384f47568)/>
 
-
+<br/>Deployment in Progress<br/>
+![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/e4cc4ed0-0d32-45ea-83bd-04b975af9dbe)/>
+<
 Confirm your selection:  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
