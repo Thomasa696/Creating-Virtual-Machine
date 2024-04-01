@@ -56,8 +56,13 @@ Launch the utility: <br/>
 <![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/301a1ece-1004-4ce6-a84a-d32384f47568)/>
 
 <br/>Deployment in Progress<br/>
-![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/e4cc4ed0-0d32-45ea-83bd-04b975af9dbe)/>
-<
+<![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/e4cc4ed0-0d32-45ea-83bd-04b975af9dbe)/>
+
+<br/>Deployment Complete Virtual Machine Created<br/>
+<![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/6b052e97-a507-4977-affd-9d082559fa1d)>
+
+,
+
 Confirm your selection:  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
