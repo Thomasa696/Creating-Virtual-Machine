@@ -37,7 +37,7 @@ Launch the utility: <br/>
 <br/>Wait For Validation To Complete Then hit Create<br/>
 <![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/778bb7af-aeb9-4862-849b-4fafe680dda4)/>
 
-<br />Create Virtual Machine
+<br />Create Virtual Machine<br/>
 <![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/0d09e42d-b18a-4529-a91d-a82d60a1c21b)/>
 
 <br />
