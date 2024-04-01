@@ -1,4 +1,4 @@
-<h1>Creating Virtual Machine</h1>
+<h1>Creating Virtual Machine Using Azure</h1>
 
  
 
