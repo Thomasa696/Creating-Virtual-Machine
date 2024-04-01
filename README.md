@@ -52,6 +52,10 @@ Launch the utility: <br/>
 <br/>Keep Networking the Same Then Click Review/Create<br/>
 <![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/9f5dafc2-11e2-40a3-9d61-367437fda646)/>
 
+<br/>Wait for Validation Then Hit Create<br/>
+<![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/301a1ece-1004-4ce6-a84a-d32384f47568)/>
+
+
 Confirm your selection:  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
