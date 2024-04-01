@@ -30,6 +30,7 @@ Launch the utility: <br/>
 
  <br/>Login Create Resource Group<br/>
  <![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/33a9dc1a-6cde-4469-9c63-47908f18b438)/>
+ Log in to Portal.Azure.com find the Resource Group tab and click it to begin the process.  
 
  <br/>Name Resource Group<br/>
  <![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/e521dc57-6a9a-442b-84f5-b8a94acdf3c1)/>
@@ -60,12 +61,4 @@ Launch the utility: <br/>
 
 <br/>Deployment Complete Virtual Machine Created<br/>
 <![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/6b052e97-a507-4977-affd-9d082559fa1d)>
-
-,
-
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-
 
