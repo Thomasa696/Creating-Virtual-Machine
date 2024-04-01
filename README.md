@@ -40,9 +40,9 @@ Launch the utility: <br/>
 <br/>Create Virtual Machine<br/>
 <![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/0d09e42d-b18a-4529-a91d-a82d60a1c21b)/>
 
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>Name Virtual Machine<br/>
+<![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/496adaa7-fb0b-431b-9ae3-968733bed22a)/>
+
 <br />
 <br />
 Confirm your selection:  <br/>
