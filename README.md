@@ -32,7 +32,7 @@ Launch the utility: <br/>
  <![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/f80514af-47f2-481f-a435-fed2d027ea15)/>
 
  <br/>Name Resource Group<br/>
- <![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/317f0303-bc39-492e-b87e-8e840349093c)>
+ <![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/e521dc57-6a9a-442b-84f5-b8a94acdf3c1)/>
 
 <br/>Wait For Validation To Complete Then hit Create<br/>
 <![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/778bb7af-aeb9-4862-849b-4fafe680dda4)/>
