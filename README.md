@@ -34,8 +34,8 @@ Launch the utility: <br/>
  <br/>Name Resource Group<br/>
  <![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/317f0303-bc39-492e-b87e-8e840349093c)>
 
-<br />
-Select the disk:  <br/>
+<br/>Wait For Validation To Complete Then hit Create<br/>
+ 
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
