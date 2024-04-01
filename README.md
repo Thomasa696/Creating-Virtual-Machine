@@ -29,7 +29,7 @@ Project consists of following a simple step by step process to create a Virtual 
 Launch the utility: <br/>
 
  <br/>Login Create Resource Group<br/>
- <![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/198666ce-3842-4120-b0c8-e30639bf2544)/>
+ <![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/8e2ce940-4e65-4544-a4f1-3810c021eadb)/>
 
  <br/>Name Resource Group<br/>
  <![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/e521dc57-6a9a-442b-84f5-b8a94acdf3c1)/>
