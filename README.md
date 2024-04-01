@@ -27,8 +27,10 @@ Project consists of following a simple step by step process to create a Virtual 
 <h2>Program Walk-Through</h2>
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+
+ <![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/57142867-7575-48b8-9f96-f891b18ad8f2)/>
+
+ <br />
 <br />
 Select the disk:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
