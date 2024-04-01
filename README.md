@@ -36,7 +36,8 @@ Launch the utility: <br/>
 
 <br/>Wait For Validation To Complete Then hit Create<br/>
  
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/778bb7af-aeb9-4862-849b-4fafe680dda4)/>
+
 <br />
 <br />
 Enter the number of passes: <br/>
