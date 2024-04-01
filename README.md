@@ -43,10 +43,13 @@ Launch the utility: <br/>
 <br/>Name Virtual Machine And Choose Windows 10 Environment<br/>
 <![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/ce4ae0f8-133f-4146-a6f0-833404aab673)/>
 
-<br/>Select Size, Username, Password Then Click Create<br/>
+<br/>Select Size, Username, Password Then Click Next for Disk<br/>
 <![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/8f45c9c1-3796-4e8f-ab1f-9324f6390a14)/>
 
-<br />
+<br/>Keep Disk The Same Click Networking<br/>
+<![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/70129f9a-f3c3-4ca7-84ec-cd43539b4d34)/>
+
+<br/>Keep Networking the Same Then Click Review/Create<br/>
 Confirm your selection:  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
