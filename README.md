@@ -41,7 +41,7 @@ Launch the utility: <br/>
 <![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/0d09e42d-b18a-4529-a91d-a82d60a1c21b)/>
 
 <br/>Name Virtual Machine<br/>
-<![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/9f02ffc6-9d3e-48e0-b325-a6ee3ef87c9b)/>
+<![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/ce4ae0f8-133f-4146-a6f0-833404aab673)/>
 
 <br />
 <br />
