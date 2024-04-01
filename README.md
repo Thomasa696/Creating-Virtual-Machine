@@ -27,7 +27,7 @@ Project consists of following a simple step by step process to create a Virtual 
 <h2>Program Walk-Through</h2>
 <p align="center">
 Launch the utility: <br/>
-
+Login Create Resource Group<br/>
  <![image](https://github.com/Thomasa696/Creating-Virtual-Machine/assets/164200083/f80514af-47f2-481f-a435-fed2d027ea15)/>
 
  <br />
